@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HomeTask13\HomeTask13\bin\Debug\netcoreapp3.1\HomeTask13.exe
+C:\Users\User\Desktop\HomeTask13\HomeTask13\bin\Debug\netcoreapp3.1\HomeTask13.deps.json
+C:\Users\User\Desktop\HomeTask13\HomeTask13\bin\Debug\netcoreapp3.1\HomeTask13.runtimeconfig.json
+C:\Users\User\Desktop\HomeTask13\HomeTask13\bin\Debug\netcoreapp3.1\HomeTask13.runtimeconfig.dev.json
+C:\Users\User\Desktop\HomeTask13\HomeTask13\bin\Debug\netcoreapp3.1\HomeTask13.dll
+C:\Users\User\Desktop\HomeTask13\HomeTask13\bin\Debug\netcoreapp3.1\HomeTask13.pdb
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.AssemblyInfo.cs
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.dll
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.pdb
+C:\Users\User\Desktop\HomeTask13\HomeTask13\obj\Debug\netcoreapp3.1\HomeTask13.genruntimeconfig.cache
